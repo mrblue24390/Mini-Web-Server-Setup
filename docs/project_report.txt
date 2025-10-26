@@ -1,0 +1,4 @@
+Project: Mini Web Server Setup on Linux
+Description: Configured and deployed an Apache web server on Ubuntu to host a static website with automated monitoring and log management.
+Skills: Apache configuration, Linux administration, Bash scripting, cron jobs, automation, performance tuning.
+Tech Stack: Linux (Ubuntu), Apache2, Bash, Cron, UFW, Systemd.
